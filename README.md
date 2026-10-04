@@ -23,3 +23,26 @@
 </a>
 
 </div>
+
+---
+
+## ⚡ About Me
+
+I'm a **Full-Stack Developer** focused on building modern web applications, AI-powered automation systems, bots, and immersive digital experiences.
+
+I don't just build websites — I build **complete digital systems** designed around real business needs.
+
+### What I build
+
+- 🌐 **Full-Stack Web Applications** — Modern, responsive and production-ready websites and web apps
+- 🤖 **AI Automation** — AI agents, automated workflows and intelligent business systems
+- 🛠️ **Bots & Automation** — Discord bots, Telegram bots and custom automation systems
+- 🧠 **AI-Powered Applications** — LLM integrations, AI assistants and smart tools
+- 🎨 **3D Websites** — Interactive, immersive and visually impressive web experiences
+- ⚙️ **Business Automation** — Systems that reduce repetitive work and improve efficiency
+
+### My approach
+
+**Idea → Design → Development → Automation → Deployment**
+
+I focus on building things that are not only visually impressive, but also **functional, scalable and useful.**
