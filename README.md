@@ -46,3 +46,29 @@ I don't just build websites — I build **complete digital systems** designed ar
 **Idea → Design → Development → Automation → Deployment**
 
 I focus on building things that are not only visually impressive, but also **functional, scalable and useful.**
+
+---
+
+# 🛠️ Tech Stack
+
+The technologies and tools I use to build modern applications, automation systems and digital experiences.
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+### 🗄️ Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,vercel" />
+</p>
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
+</p>
