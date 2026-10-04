@@ -72,3 +72,60 @@ The technologies and tools I use to build modern applications, automation system
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeasypinkman79-alt&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeasypinkman79-alt&layout=compact&theme=dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jeasypinkman79-alt&theme=dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🤝 Let's Build Something
+
+<p align="center">
+  <strong>Have an idea? Let's turn it into something real.</strong>
+</p>
+
+<p align="center">
+  I build modern full-stack applications, AI-powered automation,
+  intelligent bots and high-impact interactive websites for businesses.
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-111827?style=for-the-badge" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+
+**Available for:**
+
+💻 Full-Stack Development  
+🤖 AI Automation  
+⚙️ Business Automation  
+💬 Telegram & Discord Bots  
+🎨 3D / Interactive Websites  
+🚀 Freelance & Long-Term Projects
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building digital experiences that don't look like templates.</i>
+</p>
